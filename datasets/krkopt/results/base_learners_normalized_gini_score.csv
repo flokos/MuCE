@@ -1,0 +1,7 @@
+,Normalized Gini
+SVM_krkopt,0.93935634318
+Decision_Tree_krkopt,0.776942871768
+GaussianNB_krkopt,0.633815219416
+LR_krkopt,0.799183447217
+KNN_krkopt,0.906936324175
+MLP_krkopt,0.948571003364
