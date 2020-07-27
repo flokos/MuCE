@@ -1,0 +1,7 @@
+,Normalized Gini
+Decision_Tree_pendigits,0.899705439071
+SVM_pendigits,0.998375781631
+MLP_pendigits,0.99563477943
+KNN_pendigits,0.973363062301
+GaussianNB_pendigits,0.928895257048
+LR_pendigits,0.979197803017
