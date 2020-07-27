@@ -1,0 +1,6 @@
+{
+
+    "drop_cols":["id"],
+    "to_numeric":["Bare Nuclei"]
+
+}

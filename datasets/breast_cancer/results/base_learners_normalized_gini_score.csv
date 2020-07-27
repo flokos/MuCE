@@ -1,0 +1,7 @@
+,Normalized Gini
+KNN_breast_cancer,0.940089760985
+GaussianNB_breast_cancer,0.958668197474
+LR_breast_cancer,0.956371986223
+Decision_Tree_breast_cancer,0.872247155829
+SVM_breast_cancer,0.963260619977
+MLP_breast_cancer,0.923807535748
