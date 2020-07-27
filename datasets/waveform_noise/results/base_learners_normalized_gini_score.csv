@@ -1,0 +1,7 @@
+,Normalized Gini
+LR_waveform_noise,0.950671102845
+KNN_waveform_noise,0.947519116093
+GaussianNB_waveform_noise,0.921461416503
+MLP_waveform_noise,0.951209510706
+SVM_waveform_noise,0.951100351177
+Decision_Tree_waveform_noise,0.819201686097
