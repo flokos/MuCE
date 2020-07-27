@@ -1,0 +1,8 @@
+,Cri/atributes,Monotonicity,Type,Worst,Best,a
+0,F1,1,0,-1e-10,1.000000001,5
+1,MCC,1,0,-1e-10,1.000000001,5
+2,Cohen Kappa,1,0,-1e-10,1.000000001,5
+3,Precision(Macro),1,0,-1e-10,1.000000001,5
+4,Hamming Loss,0,0,1.000000001,-1e-10,5
+5,Recall(Macro),1,0,-1e-10,1.000000001,5
+6,Accuracy,1,0,-1e-10,1.000000001,5

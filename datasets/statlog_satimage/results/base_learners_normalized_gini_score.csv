@@ -1,0 +1,7 @@
+,Normalized Gini
+Decision_Tree_statlog_satimage,0.891558908369
+MLP_statlog_satimage,0.930495289742
+KNN_statlog_satimage,0.96446499946
+SVM_statlog_satimage,0.97300764045
+LR_statlog_satimage,0.879265429571
+GaussianNB_statlog_satimage,0.909543289946
