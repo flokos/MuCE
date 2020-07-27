@@ -1,0 +1,11 @@
+{
+    "ord_cat":{
+        "feature1":["cat1","cat2","cat3,"cat4"],
+        "feature2":["cat1","cat2","cat3,],
+    },
+    
+    "cat":["feature3","feature4","feature5"],
+    
+    ord_classes = ["class1","class3","class2","class4"],
+    
+}
